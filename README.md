@@ -9,4 +9,4 @@ It is working via tkinter GUI. Currently each new message replaces the old one.
 - Change GUI to either:
   - give all messages at the start and then only highlight the one valid for specific time
   - or add new message as a newline, while also keeping the old one
-- GUI with start button instead of "y" keyboard input
+- GUI with start button or canvas instead of "y" keyboard input
